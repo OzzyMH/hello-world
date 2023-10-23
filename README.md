@@ -1,7 +1,5 @@
 // Author Your Name
 // Description: Hello World in C++
-//
-main
 #include <iostream>
 using namespace std;
 int hello1Function(string name1);
