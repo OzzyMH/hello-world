@@ -1,5 +1,5 @@
-# hello-world
-With a group of 2 with create a branch that will output hello world 
+// Author Your Name
+// Description: Hello World in C++
 #include <iostream>
 using namespace std;
 int hello1Function(string name1);
